@@ -1,0 +1,6 @@
+https://entwickler.de/java/java-12-alle-neuen-features-auf-einen-blick#:~:text=Neben%20der%20Switch%20Expression%20gab,Bordmitteln%20sehr%20einfach%20Benchmarks%20erstellen.
+https://entwickler.de/java/java-13-alle-features-der-neuen-version-im-detail#:~:text=Die%20gr%C3%B6%C3%9Fte%20%C3%84nderung%20in%20Java,den%20Expressions%20(mit%20yield).
+https://entwickler.de/java/java-die-vierzehnte-001#:~:text=Neu%20im%20JDK%2014%20ist,abfragen%20kann%20(Listing%208).&text=Im%20JDK%208%20gab%20es,11%20aus%20Java%20entfernt%20wurde.
+https://www.baeldung.com/java-15-new#:~:text=Java%2015%20builds%20on%20several,to%20end%20in%20March%202021.
+https://www.happycoders.eu/de/java/java-16-features-de/
+https://geekflare.com/de/whats-new-in-java/
