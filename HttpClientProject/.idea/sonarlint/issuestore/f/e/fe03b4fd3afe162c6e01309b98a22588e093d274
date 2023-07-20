@@ -1,0 +1,9 @@
+
+Ž
+java:S1130	"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8÷üÊ‘—1
+]	java:S125"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8ÏÝÊ‘—1
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ƒìÍ§8ÓÝÊ‘—1
+_
+java:S16120"=Replace this lambda with method reference 'Integer::valueOf'.(à¦ ›ÿÿÿÿÿ8ýüÊ‘—1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ8ÔÝÊ‘—1
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(Ÿ–¶¥øÿÿÿÿ8ÔÝÊ‘—1
